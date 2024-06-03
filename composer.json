@@ -28,7 +28,7 @@
     "jms/serializer-bundle": "*"
   },
   "autoload": {
-    "psr-0": { "Sopinet\\ApiHelperBundle": "" }
+    "psr-0": { "itpeopleperformance\\apihelper-bundle-2": "" }
   },
-  "target-dir": "Sopinet/ApiHelperBundle"
+  "target-dir": "itpeopleperformance/apihelper-bundle-2"
 }
